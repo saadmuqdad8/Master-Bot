@@ -1,0 +1,10 @@
+{
+    "prefix": "Pl",
+    "discord_owner_id": "586081408871694338",
+    "token": "NzUzOTczMTUyNzQ4NjY3MDMx.X1t-Nw.Qu8dEPK1OmS5wITaAKMxoPv_hPw",
+    "tenorAPI": "tenor-API-key",
+    "newsAPI": "news-api-key",
+    "youtubeAPI": "AIzaSyD5regDypXKFhj2jo3qZJa7vDqnwy6uQzI",
+    "yandexAPI": "yandex-api-key",
+    "geniusLyricsAPI": "genius-api-key"
+  }
